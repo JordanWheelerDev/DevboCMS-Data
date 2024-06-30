@@ -1,4 +1,3 @@
-<div class="devbo-header-m mb-4">Changelog</div>
                 <div class="card rounded-0 border-0 mb-4">
                     <div class="card-header rounded-0 devbo-card-header">[0.5.3] June 30th, 2024 Updates</div>
                     <div class="card-body devbo-card-body">
