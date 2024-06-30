@@ -11,7 +11,7 @@
             <li><span class="changelog-changed">Changed:</span>
 
                 <ul>
-                    <li>Nothing has been changed.</li>
+                    <li>Site logo now is a global variable instead of hard coded link for ease of changing.</li>
                 </ul>
             </li>
             <li><span class="changelog-removed">Removed:</span>
